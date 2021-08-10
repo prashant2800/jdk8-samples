@@ -13,10 +13,19 @@
 
 ## SinglyLinkedList
 
-
 ### Given Problem
   Given singly linked list with values 1 2 3 4, Return the nth last element.
 ### Output
   1	2	3	4	
   Length is 4
   3rd Last node is 2
+
+
+## BinaryTree
+
+### Given Problem
+  Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+  <img src="binarytreeexample.jpeg" alt="Examples"/>
+  
+### Output
+  Symmetric : true
